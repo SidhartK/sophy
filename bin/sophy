@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [[ "$1" == "run" ]]; then
+  echo "Hello World"
+else
+  echo "Usage: sophy run"
+fi
+
